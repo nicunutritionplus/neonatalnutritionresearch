@@ -1,0 +1,51 @@
+{
+  "name": "Neonatal Nutrition Research",
+  "url": "https://neonatalnutritionresearch.com",
+  "basePath": "",
+  "description": "Clinical research on nutrition, growth, and body composition of premature babies, led by a multidisciplinary team at the UAB Women & Infants Center in Birmingham, Alabama.",
+  "twitterHandle": "NeoNutritionRes",
+  "xUrl": "https://www.x.com/NeoNutritionRes",
+  "formEndpoint": "",
+  "nav": [
+    {
+      "label": "Home",
+      "path": ""
+    },
+    {
+      "label": "Studies",
+      "path": "studies/"
+    },
+    {
+      "label": "Resources",
+      "path": "resources/"
+    },
+    {
+      "label": "Publications",
+      "path": "publications/"
+    },
+    {
+      "label": "About Us",
+      "path": "about-us/"
+    },
+    {
+      "label": "Contact Us",
+      "path": "contact-us/"
+    }
+  ],
+  "contact": {
+    "site": "UAB - Women & Infants Center",
+    "address": [
+      "UAB Women and Infants Center",
+      "1700 6th Ave S",
+      "Birmingham, Alabama 35233"
+    ],
+    "coordinators": [
+      "Audrey Reeves, RN",
+      "Danielle Benefield, RN"
+    ],
+    "phone": "205-934-9163",
+    "phoneHref": "tel:+12059349163",
+    "hours": "Monday - Friday: 8AM–5PM",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=UAB+Women+and+Infants+Center%2C+1700+6th+Ave+S%2C+Birmingham%2C+AL+35233"
+  }
+}

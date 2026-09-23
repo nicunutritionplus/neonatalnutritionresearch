@@ -20,16 +20,16 @@
     "bio": "Taylor is an experienced neonatal feeding specialist and a clinical research coordinator. She is responsible for the day-to-day research activities including screening, recruitment, data collection, sample processing, and others."
   },
   {
-    "name": "Tori Argent, MS, RDN",
-    "role": "Neonatal dietitian",
-    "photo": "assets/img/team/argent.jpg",
-    "bio": "Tori is a neonatal dietitian who has the knowledge and skills to combine innovative nutritional interventions with routine clinical practice."
-  },
-  {
     "name": "Lyana Drewry",
     "role": "Clinical research coordinator",
     "photo": "assets/img/team/drewry.jpg",
     "bio": "Lyana is a clinical research coordinator with a background in marketing and logistics."
+  },
+  {
+    "name": "Tori Argent, MS, RDN",
+    "role": "Neonatal dietitian",
+    "photo": "assets/img/team/argent.jpg",
+    "bio": "Tori is a neonatal dietitian who has the knowledge and skills to combine innovative nutritional interventions with routine clinical practice."
   },
   {
     "name": "Suraj Singh, MD",
